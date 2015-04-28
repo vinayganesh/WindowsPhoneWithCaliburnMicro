@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VINAYGANESH-PC</Machine>
+    <WindowsUser>vinayganesh</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>f322b233-b2fb-444b-816e-b12c6a54ca44</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\obj\ARM\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\CaliburnMicroWIndowsPhone.exe">
+      <PackagePath>CaliburnMicroWIndowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\WindowsPhoneApp\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\packages\Caliburn.Micro.Core.2.0.2\lib\portable-net45+win8+wp8+wpa81\Caliburn.Micro.dll">
+      <PackagePath>Caliburn.Micro.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\packages\Caliburn.Micro.2.0.2\lib\wpa81\Caliburn.Micro.Extensions.dll">
+      <PackagePath>Caliburn.Micro.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\packages\Caliburn.Micro.2.0.2\lib\wpa81\Caliburn.Micro.Platform.dll">
+      <PackagePath>Caliburn.Micro.Platform.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\Views\EmulateContactsView.xbf">
+      <PackagePath>Views\EmulateContactsView.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\CaliburnMicroWIndowsPhone.xr.xml">
+      <PackagePath>CaliburnMicroWIndowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vinayganesh\Documents\Vinay Projects\CaliburnMicroWIndowsPhone\CaliburnMicroWIndowsPhone\bin\ARM\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

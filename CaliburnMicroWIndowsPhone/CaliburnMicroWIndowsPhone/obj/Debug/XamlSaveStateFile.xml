@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\vinayganesh\documents\vinay projects\caliburnmicrowindowsphone\caliburnmicrowindowsphone\obj\debug\intermediatexaml\caliburnmicrowindowsphone.exe" HashGuid="edbc3973-20be-2982-3261-2b09dd2105fd" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\vinayganesh\documents\vinay projects\caliburnmicrowindowsphone\packages\caliburn.micro.core.2.0.2\lib\portable-net45+win8+wp8+wpa81\caliburn.micro.dll" HashGuid="a9e7d59c-fb07-2261-8294-220427d27b96" />
+    <ReferenceAssembly PathName="c:\users\vinayganesh\documents\vinay projects\caliburnmicrowindowsphone\packages\caliburn.micro.2.0.2\lib\wpa81\caliburn.micro.extensions.dll" HashGuid="37443c2f-f65d-36d3-dc79-59cc8453015a" />
+    <ReferenceAssembly PathName="c:\users\vinayganesh\documents\vinay projects\caliburnmicrowindowsphone\packages\caliburn.micro.2.0.2\lib\wpa81\caliburn.micro.platform.dll" HashGuid="24b9298a-8e08-b4a6-1644-7e7c05bdc271" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
